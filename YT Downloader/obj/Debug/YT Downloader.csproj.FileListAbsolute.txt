@@ -1,0 +1,38 @@
+C:\Users\Dell\source\repos\YT Downloader\YT Downloader\bin\Debug\YT Downloader.exe.config
+C:\Users\Dell\source\repos\YT Downloader\YT Downloader\bin\Debug\YT Downloader.exe
+C:\Users\Dell\source\repos\YT Downloader\YT Downloader\bin\Debug\YT Downloader.pdb
+C:\Users\Dell\source\repos\YT Downloader\YT Downloader\bin\Debug\libvideo.dll
+C:\Users\Dell\source\repos\YT Downloader\YT Downloader\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dell\source\repos\YT Downloader\YT Downloader\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dell\source\repos\YT Downloader\YT Downloader\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dell\source\repos\YT Downloader\YT Downloader\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Dell\source\repos\YT Downloader\YT Downloader\obj\Debug\YT Downloader.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\YT Downloader\YT Downloader\obj\Debug\YT_Downloader.Form1.resources
+C:\Users\Dell\source\repos\YT Downloader\YT Downloader\obj\Debug\YT_Downloader.Properties.Resources.resources
+C:\Users\Dell\source\repos\YT Downloader\YT Downloader\obj\Debug\YT Downloader.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\YT Downloader\YT Downloader\obj\Debug\YT Downloader.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\YT Downloader\YT Downloader\obj\Debug\YT Downloader.csproj.CopyComplete
+C:\Users\Dell\source\repos\YT Downloader\YT Downloader\obj\Debug\YT Downloader.exe
+C:\Users\Dell\source\repos\YT Downloader\YT Downloader\obj\Debug\YT Downloader.pdb
+C:\Users\Dell\source\repos\YT Downloader\YT Downloader\obj\Debug\YT_Downloader.combineDialog.resources
+C:\Users\Dell\source\repos\YT Downloader\YT Downloader\obj\Debug\YT_Downloader.helpForm.resources
+C:\Users\Dell\source\repos\YT Downloader\YT Downloader\obj\Debug\YT_Downloader.aboutApp.resources
+C:\Users\Dell\Documents\Programowanie\Repozytoria\YouTube Downloader\YT Downloader\bin\Debug\YT Downloader.exe.config
+C:\Users\Dell\Documents\Programowanie\Repozytoria\YouTube Downloader\YT Downloader\bin\Debug\YT Downloader.exe
+C:\Users\Dell\Documents\Programowanie\Repozytoria\YouTube Downloader\YT Downloader\bin\Debug\YT Downloader.pdb
+C:\Users\Dell\Documents\Programowanie\Repozytoria\YouTube Downloader\YT Downloader\bin\Debug\libvideo.dll
+C:\Users\Dell\Documents\Programowanie\Repozytoria\YouTube Downloader\YT Downloader\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dell\Documents\Programowanie\Repozytoria\YouTube Downloader\YT Downloader\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dell\Documents\Programowanie\Repozytoria\YouTube Downloader\YT Downloader\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dell\Documents\Programowanie\Repozytoria\YouTube Downloader\YT Downloader\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Dell\Documents\Programowanie\Repozytoria\YouTube Downloader\YT Downloader\obj\Debug\YT Downloader.csprojAssemblyReference.cache
+C:\Users\Dell\Documents\Programowanie\Repozytoria\YouTube Downloader\YT Downloader\obj\Debug\YT_Downloader.aboutApp.resources
+C:\Users\Dell\Documents\Programowanie\Repozytoria\YouTube Downloader\YT Downloader\obj\Debug\YT_Downloader.combineDialog.resources
+C:\Users\Dell\Documents\Programowanie\Repozytoria\YouTube Downloader\YT Downloader\obj\Debug\YT_Downloader.Form1.resources
+C:\Users\Dell\Documents\Programowanie\Repozytoria\YouTube Downloader\YT Downloader\obj\Debug\YT_Downloader.helpForm.resources
+C:\Users\Dell\Documents\Programowanie\Repozytoria\YouTube Downloader\YT Downloader\obj\Debug\YT_Downloader.Properties.Resources.resources
+C:\Users\Dell\Documents\Programowanie\Repozytoria\YouTube Downloader\YT Downloader\obj\Debug\YT Downloader.csproj.GenerateResource.cache
+C:\Users\Dell\Documents\Programowanie\Repozytoria\YouTube Downloader\YT Downloader\obj\Debug\YT Downloader.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\Programowanie\Repozytoria\YouTube Downloader\YT Downloader\obj\Debug\YT Downloader.csproj.CopyComplete
+C:\Users\Dell\Documents\Programowanie\Repozytoria\YouTube Downloader\YT Downloader\obj\Debug\YT Downloader.exe
+C:\Users\Dell\Documents\Programowanie\Repozytoria\YouTube Downloader\YT Downloader\obj\Debug\YT Downloader.pdb
