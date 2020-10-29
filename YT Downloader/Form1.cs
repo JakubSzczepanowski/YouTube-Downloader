@@ -95,7 +95,7 @@ namespace YT_Downloader
                         try
                         {
                             YouTubeVideo video = videos.First(x => x.Resolution == resolution && x.Format == VideoFormat.Mp4 && x.AudioBitrate != -1);
-                            button1.Enabled = false;
+                            setState(false);
                             new Thread(async () =>
                             {
                                 var client = new HttpClient();
@@ -122,7 +122,7 @@ namespace YT_Downloader
                                         setValue(0);
                                         MessageBox.Show("Pobieranie zakończone", "Info", MessageBoxButtons.OK, MessageBoxIcon.Information);
                                         client.Dispose();
-                                        button1.Enabled = true;
+                                        setState(true);
                                     }
                                 }
                             }

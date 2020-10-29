@@ -36,3 +36,11 @@ C:\Users\Dell\Documents\Programowanie\Repozytoria\YouTube Downloader\YT Download
 C:\Users\Dell\Documents\Programowanie\Repozytoria\YouTube Downloader\YT Downloader\obj\Debug\YT Downloader.csproj.CopyComplete
 C:\Users\Dell\Documents\Programowanie\Repozytoria\YouTube Downloader\YT Downloader\obj\Debug\YT Downloader.exe
 C:\Users\Dell\Documents\Programowanie\Repozytoria\YouTube Downloader\YT Downloader\obj\Debug\YT Downloader.pdb
+C:\Users\Dell\Documents\Programowanie\Repozytoria\YouTube Downloader\YT Downloader\bin\Debug\System.Buffers.dll
+C:\Users\Dell\Documents\Programowanie\Repozytoria\YouTube Downloader\YT Downloader\bin\Debug\System.Memory.dll
+C:\Users\Dell\Documents\Programowanie\Repozytoria\YouTube Downloader\YT Downloader\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Dell\Documents\Programowanie\Repozytoria\YouTube Downloader\YT Downloader\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Dell\Documents\Programowanie\Repozytoria\YouTube Downloader\YT Downloader\bin\Debug\System.Buffers.xml
+C:\Users\Dell\Documents\Programowanie\Repozytoria\YouTube Downloader\YT Downloader\bin\Debug\System.Memory.xml
+C:\Users\Dell\Documents\Programowanie\Repozytoria\YouTube Downloader\YT Downloader\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Dell\Documents\Programowanie\Repozytoria\YouTube Downloader\YT Downloader\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
