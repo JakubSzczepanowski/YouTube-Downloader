@@ -148,20 +148,20 @@
             this.oProgramieToolStripMenuItem,
             this.pomocToolStripMenuItem});
             this.opcjeToolStripMenuItem.Name = "opcjeToolStripMenuItem";
-            this.opcjeToolStripMenuItem.Size = new System.Drawing.Size(62, 26);
+            this.opcjeToolStripMenuItem.Size = new System.Drawing.Size(62, 24);
             this.opcjeToolStripMenuItem.Text = "Opcje";
             // 
             // oProgramieToolStripMenuItem
             // 
             this.oProgramieToolStripMenuItem.Name = "oProgramieToolStripMenuItem";
-            this.oProgramieToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.oProgramieToolStripMenuItem.Size = new System.Drawing.Size(177, 26);
             this.oProgramieToolStripMenuItem.Text = "O programie";
             this.oProgramieToolStripMenuItem.Click += new System.EventHandler(this.oProgramieToolStripMenuItem_Click);
             // 
             // pomocToolStripMenuItem
             // 
             this.pomocToolStripMenuItem.Name = "pomocToolStripMenuItem";
-            this.pomocToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.pomocToolStripMenuItem.Size = new System.Drawing.Size(177, 26);
             this.pomocToolStripMenuItem.Text = "Pomoc";
             this.pomocToolStripMenuItem.Click += new System.EventHandler(this.pomocToolStripMenuItem_Click);
             // 
@@ -182,6 +182,7 @@
             this.MaximizeBox = false;
             this.Name = "Form1";
             this.Text = "Jutiub Ściągarka";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.menuStrip1.ResumeLayout(false);
