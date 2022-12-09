@@ -208,6 +208,7 @@
     <Compile Include="combineDialog.Designer.cs">
       <DependentUpon>combineDialog.cs</DependentUpon>
     </Compile>
+    <Compile Include="DownloadEngine.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
